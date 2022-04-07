@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+ドキュメント修正か…
 
 ![constructocat](https://octodex.github.com/images/constructocat2.jpg)
 {: .center}
