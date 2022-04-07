@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+IRON-CAT OF BEACHSIDE !!
 
-![orderedlistocat](https://octodex.github.com/images/orderedlistocat.png)
+![orderedlistocat](https://octodex.github.com/images/ironcat.jpg)
 {: .center}
