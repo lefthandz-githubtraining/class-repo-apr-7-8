@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: April 7 - 8, 2022
+- Facilitator: @dzeyelid
 
 ## Class Resources
 
