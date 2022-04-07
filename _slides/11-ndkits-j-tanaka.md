@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+札幌の田中です。
 
 ![kimonotocat](https://octodex.github.com/images/kimonotocat.png)
 {: .center}
