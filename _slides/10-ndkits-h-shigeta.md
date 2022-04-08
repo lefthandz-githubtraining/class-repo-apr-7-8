@@ -2,8 +2,8 @@
 layout: slide
 title: "Welcome to our slide deck!"
 ---
-
-キャプション☆ひあ
-
+dd
+キャプション☆ひあ2nd
+dd
 ![kimonotocat](https://octodex.github.com/images/kimonotocat.png)
 {: .center}
